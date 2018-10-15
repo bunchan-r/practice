@@ -1,3 +1,17 @@
+/* タブレット */
+@media all and (max-width: 1000px) {
+  .top {
+    text-align: center;
+  }
+
+  .main-image {
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+/* スマホ */
 @media all and (max-width: 670px) {
     .header-list li {
       display:none;
