@@ -1,5 +1,5 @@
 /* タブレット */
-@media all and (max-width: 1000px) {
+/* @media all and (max-width: 1000px) {
   .top {
     text-align: center;
   }
@@ -9,7 +9,7 @@
     height: auto;
   }
 
-}
+} */
 
 /* スマホ */
 @media all and (max-width: 670px) {
